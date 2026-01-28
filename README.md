@@ -9,4 +9,3 @@ source .venv/bin/activate
 pip install pytest ruff pre-commit
 pre-commit install
 pytest
->>>>>>> a648a60 (Improve README with setup and usage instructions)
