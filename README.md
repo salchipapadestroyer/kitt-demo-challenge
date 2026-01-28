@@ -1,3 +1,5 @@
+![CI](https://github.com/salchipapadestroyer/kitt-demo-challenge/actions/workflows/ci.yml/badge.svg)
+
 # Kitt Demo Challenge
 
 Python mini-project for practicing GitHub flow + testing + CI.
